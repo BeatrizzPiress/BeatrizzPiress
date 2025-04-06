@@ -6,7 +6,6 @@
 - 🤔 Preciso de ajuda com desafios em JavaScript e boas práticas no desenvolvimento web.  
 - 💬 Me pergunte sobre: tecnologia, acessibilidade na web, minha jornada como desenvolvedora e músicas dos anos 80!  
 - 📫 Como me encontrar: **anabeatrizsousaps@gmail.com**  
-- 😊 Pronomes: ela/dela  
 - 🎨 Sou apaixonada por música dos anos 80 e amo usar minha criatividade para resolver problemas e criar soluções incríveis.  
 
 ##
